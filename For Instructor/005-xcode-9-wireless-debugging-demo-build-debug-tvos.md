@@ -1,3 +1,6 @@
+*This section should be de displaying mac screen & the tvOS device showing without wires.*
+
+**Build and debug**
 Open up FirstTVOS project and add a developer account to the project
 Add a break point to FirstViewController.swift, line 14.
 Build and run the project, you should see your Apple TV device as a target.

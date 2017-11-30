@@ -1,4 +1,7 @@
-Ensure the usb cable is disconnecting from your iOS device
+*This section should be de displaying mac screen & the iOS device showing without wires.*
+
+**Build and debug**
+Ensure the usb cable is disconnected from your iOS device
 Open up FirstiOS project and add a developer account to the project
 Add a break point to FirstViewController.swift, line 14.
 Build and run the project, you should see your iOS device as a target.
